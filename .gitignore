@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files and cache
+Lora_Qwen3_finetune/model/
+Lora_Qwen3_finetune/unsloth_compiled_cache/
+Lora_Qwen3_finetune/__pycache__/
+*.safetensors
+*.bin
+*.gguf
+
+# Logs
+Lora_Qwen3_finetune/logs/
+*.log
+
+# Dataset files (usually large)
+Lora_Qwen3_finetune/dataset/alpaca_train.json
+Lora_Qwen3_finetune/dataset/train/
+Lora_Qwen3_finetune/dataset/valid/
+Lora_Qwen3_finetune/dataset/test/
+
+# Evaluation results
+Lora_Qwen3_finetune/evaluation/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp 
