@@ -77,4 +77,4 @@ pip install -r requirements.txt
 ---
 
 **作者**: whatseven  
-**邮箱**: 15812711506@163.com 
+**邮箱**: 15812711506@163.com
